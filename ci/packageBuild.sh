@@ -4,4 +4,4 @@ mv ../www/* .
 rm ../package.json
 rm ../bs-config.json
 rm ../README.md
-rm ../www
+rm -rf ../www
