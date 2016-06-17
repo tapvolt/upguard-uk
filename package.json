@@ -1,0 +1,26 @@
+{
+  "name": "www-upguard-uk",
+  "version": "1.0.0",
+  "description": "This is a test.",
+  "main": "www/index.html",
+  "engines": {
+    "node": "6.2.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tapvolt/www-upguard-uk.git"
+  },
+  "author": "Gareth Jackson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tapvolt/www-upguard-uk/issues"
+  },
+  "homepage": "https://github.com/tapvolt/www-upguard-uk",
+  "devDependencies": {
+    "lite-server": "^2.2.0"
+  }
+}
